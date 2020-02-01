@@ -1,2 +1,2 @@
 # hello-word
-Aprentendo o basico
+Aprendendo o basico
